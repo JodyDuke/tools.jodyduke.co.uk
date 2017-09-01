@@ -1,0 +1,52 @@
+body {
+  padding-top: 50px;
+}
+
+h4 {
+	margin-bottom: 0.4em;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.tool-link {
+	display: block;
+	margin-top: 0.7em;
+}
+
+.form-control {
+	text-align: center;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+
+#result-container {
+	margin-top: 2em;
+}
+
+#result-container p {
+	font-size: 2em;
+}
+
+#result-container span {
+	font-size: 0.4em;
+}
+
+#result-num-1{
+	color: #5cb85c;
+	margin-bottom: 0em;
+}
+
+#result-num{
+	margin-top: 0em;
+}
+
+

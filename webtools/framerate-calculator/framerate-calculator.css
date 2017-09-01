@@ -1,0 +1,45 @@
+.right {
+  text-align: right
+}
+
+
+.row {
+  text-align: center;
+  margin-top: 1em;
+}
+
+h4 {
+  text-align: center;
+}
+
+
+.form-control {
+	text-align: center;
+}
+
+
+.col-xs-2 {
+  margin-top: 1em;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.result-container {
+  margin-top: 0.5em;
+  border-top: 1px black solid;
+  padding-top: 5px;
+  color: red;
+}
+
+.result-row {
+  margin-top: 2em;
+}
+
+i {
+  font-size: 80%;
+}
+
